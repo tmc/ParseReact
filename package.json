@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/ParsePlatform/ParseReact"
   },
+  "main": "dist/parse-react.js",
   "devDependencies": {
     "browserify": "~9.0.3",
     "bundle-collapser": "~1.1.4",
